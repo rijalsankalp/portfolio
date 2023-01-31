@@ -34,7 +34,7 @@ const About = () => {
           <img
             src="../public/assets/about.jpg"
             className="rounded-xl"
-            alt="/"
+            alt="Hello! I am Sankalpa."
             width="250"
           />
         </div>
