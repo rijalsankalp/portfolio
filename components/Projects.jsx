@@ -4,8 +4,7 @@ import slaabur from "../public/assets/projects/slaabur.jpg";
 import FitnessFlow from "../public/assets/projects/fitnessflow.jpg";
 import hdcr from "../public/assets/projects/hdcr.jpg";
 import SnakeAndLadder from "../public/assets/projects/snakeandladder.jpg";
-
-import ProjectItem from "./ProjectItem";
+import ProjectItem from "./Projectitem";
 
 const Projects = () => {
   return (
@@ -20,7 +19,7 @@ const Projects = () => {
             title="Monaural Multispeaker Speech Separation"
             backgroundImg={Project1}
             projectUrl="https://github.com/rijalsankalp/perceparator"
-            tech="Pyhton, Pytorch, Numpy"
+            tech="Python, Pytorch, Numpy"
           />
           <ProjectItem
             title="Handwritten Devanagari Character Recognition"
