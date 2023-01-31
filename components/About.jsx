@@ -11,11 +11,11 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            I am currently pursuing my B.Tech in Computer Science and
-            Engineering from IOE, Tribhuwan University. I am actively involved
-            in the projects around the Machine Learning and Deep Learning. I
-            have some ecperience in developing front-end software using ReactJS
-            and NextJS as well.
+            I am currently pursuing my B.E. in Computer Engineering from IOE,
+            Tribhuwan University. I am actively pursuing involving in the
+            projects around the Machine Learning and Deep Learning. I have some
+            experience in developing front-end software using ReactJS and NextJS
+            as well.
           </p>
           <p className="py-2 text-gray-600">
             I started projects on Machine Learning in 2018, learning the basics
