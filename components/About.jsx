@@ -34,9 +34,10 @@ const About = () => {
         <div className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
           <Image
             src="../public/assets/about.jpg"
-            className="rounded-xl"
-            alt="Hello! I am Sankalpa."
+            className="rounded-xl text-center items-center justify-center"
+            alt="&#13;&#13;&#10;Hello! I am Sankalpa."
             width="250"
+            height="250"
           />
         </div>
       </div>
