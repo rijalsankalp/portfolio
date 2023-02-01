@@ -61,7 +61,7 @@ const Navbar = () => {
               <Link href="/#projects">Projects</Link>
             </li>
             <li className="ml-10 text-sm uppercase hover:border-b">
-              <Link href="../public/assets/resume.pdf">Résumé</Link>
+              <Link href="assets/resume_san.pdf">Résumé</Link>
             </li>
             <li className="ml-10 text-sm uppercase hover:border-b">
               <Link href="/#contact">Contact</Link>
@@ -133,7 +133,7 @@ const Navbar = () => {
                   Projects
                 </li>
               </Link>
-              <Link href="/resume">
+              <Link href="assets/resume_san.pdf">
                 <li onClick={() => setNav(false)} className="py-4 text-sm">
                   Résumé
                 </li>
@@ -175,7 +175,7 @@ const Navbar = () => {
                     <AiOutlineMail />
                   </div>
                 </Link>
-                <Link href="/resume">
+                <Link href="assets/resume_san.pdf">
                   <div
                     onClick={() => setNav(!nav)}
                     className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
