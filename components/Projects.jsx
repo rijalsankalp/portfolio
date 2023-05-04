@@ -19,7 +19,7 @@ const Projects = () => {
             title="Monaural Multispeaker Speech Separation"
             backgroundImg={Project1}
             projectUrl="https://github.com/rijalsankalp/perceparator"
-            tech="Python, Pytorch, Numpy"
+            tech="Transformer, Python, Pytorch, Numpy"
           />
           <ProjectItem
             title="Handwritten Devanagari Character Recognition"

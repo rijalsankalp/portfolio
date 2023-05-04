@@ -99,7 +99,7 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className="py-2">Sankalpa</h2>
-                <p>Machine Learning Einthusiast</p>
+                <p>Machine Learning Enthusiast</p>
                 <p className="py-4">
                   I am available for freelance or full-time positions. Contact
                   me and let&apos;s talk.

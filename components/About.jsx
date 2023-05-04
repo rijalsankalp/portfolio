@@ -13,8 +13,8 @@ const About = () => {
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
             I am currently pursuing my B.E. in Computer Engineering from IOE,
-            Tribhuwan University. I am actively pursuing involving in the
-            projects around the Machine Learning and Deep Learning. I have some
+            Tribhuwan University. I am actively working on projects involving
+            Artificial Intelligence Research and Development. I have some
             experience in developing front-end software using ReactJS and NextJS
             as well.
           </p>
@@ -37,7 +37,7 @@ const About = () => {
             className="rounded-xl text-center items-center justify-center"
             alt="&#13;&#13;&#10;Hello! I am Sankalpa."
             width="250"
-            height="250"
+            height={250}
           />
         </div>
       </div>
