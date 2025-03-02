@@ -17,8 +17,8 @@ const Main = () => {
           </h1>
           <h1 className="py-2 text-gray-700">A Machine Learning Enthusiast</h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-            I&#39;m focused on researches on Machine Learning and software
-            development.
+            I&#39;m a Computer Science student. Project and reserach experience
+            in ML/AI and software development.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a
