@@ -23,7 +23,7 @@ export default function Home() {
         <title>Sankalpa | ML-Enthusiast</title>
         <meta
           name="description"
-          content="I'm a ML/AI enthusiast with occasional software developing experience."
+          content="I&#39;m a Computer Science student. Project and reserach experience in ML/AI and software development."
         />
       </Head>
       <Navbar />
