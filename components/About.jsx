@@ -12,11 +12,13 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            I am currently pursuing my B.E. in Computer Engineering from IOE,
-            Tribhuwan University. I am actively working on projects involving
-            Artificial Intelligence Research and Development. I have some
-            experience in developing front-end software using ReactJS and NextJS
-            as well.
+            I am currently pursuing MS Computer Science at Villanova University,
+            PA. I completed B.E. in Computer Engineering from IOE, Tribhuwan
+            University. I have extensive experience in projects and research
+            around machin leraning. I am currently working on reserach involving
+            extraction of contextual information from long textual data using
+            traditional machine learning approcah and unsupervised methods, and
+            comparing with performance with large language models.
           </p>
           <p className="py-2 text-gray-600">
             I started projects on Machine Learning in 2018, learning the basics
