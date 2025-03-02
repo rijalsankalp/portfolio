@@ -10,10 +10,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Sankalpa | ML-Einthusiast</title>
+        <title>Sankalpa | Computer Science student</title>
         <meta
           name="description"
-          content="I&#39;m a ML/AI einthusiast with occosaional software developing experience."
+          content="I&#39;m a Computer Science student. Project and reserach experience in ML/AI and software development."
         />
       </Head>
       <Navbar />
